@@ -1,3 +1,3 @@
 # Deno-Authentication-System
 
-Thanks to @bharney for keeping it forked!
+Original repository can be found (here)[https://github.com/WingZer0o/mulchronedigital]
